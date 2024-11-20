@@ -1,0 +1,21 @@
+{
+  "name": "link",
+  "version": "0.0.0",
+  "private": true,
+  "scripts": {
+    "dev": "vite --host",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "dependencies": {
+    "kd-tree-javascript": "^1.0.3",
+    "lil-gui": "^0.19.1",
+    "three": "^0.158.0",
+    "verge3d": "^4.5.0",
+    "vue": "^3.3.4"
+  },
+  "devDependencies": {
+    "@vitejs/plugin-vue": "^4.4.0",
+    "vite": "^4.4.11"
+  }
+}
